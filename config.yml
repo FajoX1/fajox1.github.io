@@ -1,0 +1,53 @@
+baseURL: "fajox1.github.io"
+title: Fajox
+paginate: 5
+publishDir: "docs"
+theme: hugo-PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+    disableXML: true
+
+params:
+    defaultTheme: dark
+    profileMode:
+        enabled: true
+        title: "Fajox"
+        subtitle: "Senior developer, Sys-admin"
+        imageUrl: "https://avatars.githubusercontent.com/u/146753912?v=4"
+        imageTitle: "<title of image as alt>" 
+        imageWidth: 120
+        imageHeight: 120 
+        buttons:
+            - name: Projects
+              url: "/projects"
+            - name: Github
+              url: "https://github.com/"
+
+    socialIcons:
+        - name: "Telegram"
+          url: "https://t.me/fajox"
+        - name: "Github"
+          url: "https://github.com/fajox1"
+
+# menu:
+    main:
+        - identifier: Projects
+          name: Projects
+          url: /projects/
+          weight: 10
+        - identifier: Telegram
+          name: Telegram
+          url: https://t.me/fajox
+          weight: 20
+        - identifier: Github
+          name: Github
+          url: https://github.com/fajox1
+          weight: 30

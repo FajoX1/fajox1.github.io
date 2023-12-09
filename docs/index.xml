@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fajox</title>
+    <link>fajox1.github.io/</link>
+    <description>Recent content on Fajox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="fajox1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My projects</title>
+      <link>fajox1.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>fajox1.github.io/projects/</guid>
+      <description>Voltgram Telegram client.
+FAmods Modules for hikka userbot.
+HetaLib Python library for working with heta api.</description>
+    </item>
+    
+  </channel>
+</rss>
