@@ -1,8 +1,8 @@
-baseURL: "fajox1.github.io"
+baseURL: "https://fajox1.github.io/"
 title: Fajox
 paginate: 5
-publishDir: "docs"
-theme: hugo-PaperMod
+publishDir: docs
+theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -13,7 +13,8 @@ enableEmoji: true
 pygmentsUseClasses: true
 
 minify:
-    disableXML: true
+  disableXML: true
+  minifyOutput: true
 
 params:
     defaultTheme: dark
@@ -51,3 +52,7 @@ params:
           name: Github
           url: https://github.com/fajox1
           weight: 30
+
+module:
+  imports:
+    - path: PaperMod

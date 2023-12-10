@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>fajox1.github.io/categories/</loc>
+    <loc>https://fajox1.github.io/categories/</loc>
   </url><url>
-    <loc>fajox1.github.io/</loc>
+    <loc>https://fajox1.github.io/</loc>
   </url><url>
-    <loc>fajox1.github.io/projects/</loc>
+    <loc>https://fajox1.github.io/projects/</loc>
   </url><url>
-    <loc>fajox1.github.io/tags/</loc>
+    <loc>https://fajox1.github.io/tags/</loc>
   </url>
 </urlset>
